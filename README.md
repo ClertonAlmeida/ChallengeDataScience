@@ -14,3 +14,8 @@ Atividades:
 4. Corrigir as inconsistências nos dados;
 5. Traduzir as colunas;
 6. Criar coluna de contas diárias.
+
+# DataFrame
+
+![image](https://user-images.githubusercontent.com/103366124/167497689-0e5f0107-2bb7-4696-9adf-e4324ccaf258.png)
+
