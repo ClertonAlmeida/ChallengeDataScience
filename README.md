@@ -8,7 +8,7 @@ Challenge Data Science da Alura
 
 
 
-# Semana 1 do Challenge - [Link Projeto](https://github.com/ClertonAlmeida/ChallengeDataScience/tree/main/semana01)
+# [Semana 1 do Challenge - Projeto](https://github.com/ClertonAlmeida/ChallengeDataScience/tree/main/semana01)
 
 Atividades:
 1. Entender quais informações o conjunto de dados possui;
