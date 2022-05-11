@@ -1,5 +1,8 @@
 # ChallengeDataScience
 Challenge Data Science da Alura
+
+# Base de Dados e Dicionário:
+
 * [Base De Dados](https://raw.githubusercontent.com/sthemonica/alura-voz/main/Dados/Telco-Customer-Churn.json)
 * [Dicionário de Dados](https://github.com/sthemonica/alura-voz/blob/main/dicionario.md)
 
@@ -21,4 +24,7 @@ Atividades:
 # DataFrame
 
 ![image](https://user-images.githubusercontent.com/103366124/167497689-0e5f0107-2bb7-4696-9adf-e4324ccaf258.png)
+
+
+#alurachallengedatascience1
 
